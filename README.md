@@ -11,4 +11,7 @@
 2. Something you shoud pay attention to:
     - You have 5 lives in total
     - When you used all your lives,you must hit refresh to play again.
+3. Reference
+
+	**I've learned a lot from [http://irene.marin.cat/udacity/project3/index.html](http://irene.marin.cat/udacity/project3/index.html)**
    
